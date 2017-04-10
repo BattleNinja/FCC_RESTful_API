@@ -1,0 +1,20 @@
+{
+  "name": "resrful",
+  "version": "0.0.0",
+  "private": true,
+  "engines":{
+    "node":"6.10.1",
+    "npm":"3.10.10"
+
+
+  },
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "jade": "~1.11.0",
+    "morgan": "~1.8.1"
+  }
+}
